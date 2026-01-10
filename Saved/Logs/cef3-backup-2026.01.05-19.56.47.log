@@ -1,0 +1,9 @@
+[3316:19580:0105/150407.771:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3316:19580:0105/150407.904:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3316:26424:0105/150426.397:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21100:28872:0105/215006.542:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3316:16196:0105/215006.609:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3316:19580:0105/215012.607:ERROR:device_event_log_impl.cc(196)] [21:50:08.217] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[3316:19580:0105/215012.975:ERROR:device_event_log_impl.cc(196)] [21:50:12.672] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[3316:26424:0105/215013.284:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3316:19580:0105/215647.380:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
