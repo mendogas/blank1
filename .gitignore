@@ -1,0 +1,25 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE / OS
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Crash reports
+crashinfo-*
